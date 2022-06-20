@@ -1,7 +1,5 @@
 # Latest RadioGeek
 
-### from Anchor
-
 <!-- RadioGeek-Anchor:START -->
 - [رادیوگیک - شماره ۱۴۲ - خیرین دزد دات نتی](https://anchor.fm/radiojadi/episodes/------e1jubg2)
 - [رادیوگیک - شماره ۱۴۱ - دزدان دریایی سومالی به یاد دوستم دیوتی مسر](https://anchor.fm/radiojadi/episodes/------e1jdmbj)
