@@ -1,4 +1,4 @@
-name: Latest RadioGeek (YouTube)
+name: Latest RadioGeek (Google podcasts)
 on:
   schedule:
     # Runs every hour
@@ -6,13 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-youtube:
+  update-readme-with-google-podcasts:
     name: Update this repo's README with latest Podcast from RadioGeek
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "RadioGeek-YouTube"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn"
+          comment_tag_name: "RadioGeek-GooglePodcasts"
+          feed_list: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82MDQ4ODkwL3BvZGNhc3QvcnNz"
           max_post_count: 1000

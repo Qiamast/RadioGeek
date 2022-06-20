@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-youtube:
+  update-readme-with-anchor:
     name: Update this repo's README with latest Podcast from RadioGeek
     runs-on: ubuntu-latest
     steps:
