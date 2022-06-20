@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "RadioGeek-Anchor"
           feed_list: "https://anchor.fm/s/6048890/podcast/rss"
-          max_post_count: 100
+          max_post_count: 1000

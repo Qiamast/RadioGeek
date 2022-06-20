@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "RadioGeek-YouTube"
-          feed_list: "PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn"
-          max_post_count: 100
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn"
+          max_post_count: 1000
