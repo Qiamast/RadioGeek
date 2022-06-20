@@ -1,4 +1,4 @@
-name: Latest RadioGeek Link
+name: Latest RadioGeek (Anchor)
 on:
   schedule:
     # Runs every hour
