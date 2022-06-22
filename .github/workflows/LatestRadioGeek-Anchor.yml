@@ -19,4 +19,4 @@ jobs:
           commit_message: "🔥Update with lastest RadioGeek feed"
           committer_username: "🤖RadioGeek-BOT"
           committer_email: "<>"
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline - $description $newline
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline - $description $newline"
