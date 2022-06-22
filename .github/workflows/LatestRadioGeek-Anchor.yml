@@ -19,4 +19,4 @@ jobs:
           commit_message: "🔥Update with lastest RadioGeek feed"
           committer_username: "🤖RadioGeek-Bot"
           committer_email: "<>"
-          template: "$newline - [$title]($url) $newline  - $description $newline"
+          template: "$newline ### - [$title]($url) $newline - $description $newline"
