@@ -1,8 +1,8 @@
 name: Latest RadioGeek (Anchor)
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs “At 00:00 on Friday.”
+    - cron: '0 0 * * FRI'
   workflow_dispatch:
 
 jobs:
@@ -17,5 +17,5 @@ jobs:
           feed_list: "https://anchor.fm/s/6048890/podcast/rss"
           max_post_count: 1000
           commit_message: "🔥Update with lastest RadioGeek feed"
-          committer_username: "ًQiamast"
-          committer_email: "RadioGeek@example.com"
+          committer_username: "Qiamast"
+          committer_email: "<>"
