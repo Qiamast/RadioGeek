@@ -18,5 +18,5 @@ jobs:
           max_post_count: 1000
           commit_message: "🔥Update with lastest RadioGeek feed"
           committer_username: "🤖RadioGeek-Bot"
-          committer_email: "<>"
-          template: "$newline #### - [$title]($url) $newline $description $newline"
+          committer_email: "<?>"
+          template: "$newline #### - [$title]($url) $newline $description $newline </hr >"
