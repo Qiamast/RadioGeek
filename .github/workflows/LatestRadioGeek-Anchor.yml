@@ -16,3 +16,6 @@ jobs:
           comment_tag_name: "RadioGeek-Anchor"
           feed_list: "https://anchor.fm/s/6048890/podcast/rss"
           max_post_count: 1000
+          commit_message: "🔥Update: to lastest RadioGeek feed list"
+          committer_username: "RadioGeek-updater-bot"
+          committer_email: "RadioGeek@example.com"
