@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "RadioGeek-Anchor"
+          comment_tag_name: "RadioGeek-Anchor-feed"
           feed_list: "https://anchor.fm/s/6048890/podcast/rss"
           max_post_count: 1000
           commit_message: "🔥Update: to lastest RadioGeek feed list"
