@@ -17,5 +17,6 @@ jobs:
           feed_list: "https://anchor.fm/s/6048890/podcast/rss"
           max_post_count: 1000
           commit_message: "🔥Update with lastest RadioGeek feed"
-          committer_username: "Qiamast"
+          committer_username: "🤖RadioGeek-BOT"
           committer_email: "<>"
+          
