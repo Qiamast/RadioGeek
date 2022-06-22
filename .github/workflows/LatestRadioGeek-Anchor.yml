@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme-with-anchor:
-    name: Update this repo's README with latest Podcast from RadioGeek
+    name: Update this repo's README with latest update from RadioGeek podcast
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,6 +17,6 @@ jobs:
           feed_list: "https://anchor.fm/s/6048890/podcast/rss"
           max_post_count: 1000
           commit_message: "🔥Update with lastest RadioGeek feed"
-          committer_username: "🤖RadioGeek-BOT"
+          committer_username: "🤖RadioGeek-Bot"
           committer_email: "<>"
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline - $description $newline"
+          template: "$newline - $date [$title]($url) $newline - $description $newline <hr />"
