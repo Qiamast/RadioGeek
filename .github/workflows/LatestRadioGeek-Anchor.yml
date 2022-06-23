@@ -20,3 +20,4 @@ jobs:
           committer_username: "🤖RadioGeek-Bot"
           committer_email: "<>"
           template: "$newline #### - [$title]($url) $newline <details> $description </details> $newline <hr /> $newline"
+          item_exec: "post.description = post.description.replace('<p>','');post.description = post.description.replace('</p>','')"
