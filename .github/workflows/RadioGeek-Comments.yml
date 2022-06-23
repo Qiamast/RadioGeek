@@ -53,7 +53,7 @@ jobs:
             fileSystem.writeFileSync('Comments.md', readme.replace(/(?<=<!-- comments-about-radio-geek -->.*\n)[\S\s]*?(?=<!-- \/comments-about-radio-geek -->|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes)), 'utf8');
       - name: Push reviews update
         run: |
-          git config --global user.name 'RadioGeek-Bot'
+          git config --global user.name '🤖RadioGeek-Bot'
           git config --global user.email '<>'
           git commit -am 'Update: new comments about RadioGeek📬'
           git push
