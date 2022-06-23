@@ -21,5 +21,6 @@ jobs:
           committer_email: "<>"
           date_format: 'UTC: yyyy-mm-dd'
           template: "$newline #### - [$title]($url) $newline <details> $description </details> $newline <hr /> $newline"
-          item_exec: "post.description = post.description.replace(/(<([^>]+)>)/ig,' ')"
+          # Regex for remove HTML TAG:    /(<([^>]+)>)/ig
+          item_exec: "post.description = post.description.replace('','')"
           disable_html_encoding: true
