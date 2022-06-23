@@ -20,5 +20,5 @@ jobs:
           committer_username: "🤖RadioGeek-Bot"
           committer_email: "<>"
           date_format: 'UTC:ddd yyyy-mm-dd'
-          template: "$newline #### - [$title]($url) $newline ($date) <details> $description </details> $newline <hr /> $newline"
-          item_exec: "post.description = post.description.replace('<p>','');post.description = post.description.replace('</p>','')"
+          template: "$newline #### - [$title]($url) $newline <details> ($date) $newline $description </details> $newline <hr /> $newline"
+          item_exec: "post.description = post.description.replace(/<[^>]*>/,'')"
