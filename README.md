@@ -1,12 +1,5 @@
 # Latest RadioGeek | ([Add Comments](https://github.com/Qiamast/RadioGeek/issues/3#issuecomment-new))
 
-<details>
-<summary>RadioGeek Fans comments</summary>
-
-this is a comments
-</details>
-</br >
-</br >
 <!-- RadioGeek-Anchor-feed:START -->
  #### - [رادیوگیک - شماره ۱۴۲ - خیرین دزد دات نتی](https://anchor.fm/radiojadi/episodes/------e1jubg2) 
  <details> یه کشیش/مهندس از ازگوگل بیرون اومده و می‌گه اونجا هوش مصنوعی احساس پیدا کرده، یکی از راه دور گوشی شما رو تاچ می‌کنه، یکی می‌گه استارلینک در جنگ تاثیر داشته و آفریقا هم استارلینک دار شده و این وسط بدافزارها شما رو مجبور به کار خیر می کنن و باونتی هکرها شده ۶ میلیون دلار! خلاصه دنیای عجیبی است که با رادیوگیک می‌تونین همراهش باشین چون دنیا هکرهای بیشتری لازم داره.&lt;/p&gt;
