@@ -13,7 +13,7 @@
  27:55 - باج افزاری که شما رو مجبور به کار خیر می‌کنه 
  35:00 - هک سرویس های شهرداری تهران 
  39:16 - مایکروسافت رنج حقوقی آگهی‌های شغلی رو اعلام می‌کنه 
- 41:20 - خرید vmware توسط &amp;nbsp;برودکام 
+ 41:20 - خرید vmware توسط &nbsp;برودکام 
  41:50 - هوش مصنوعی تبدیل متن به عکس گوگل 
  46:00 - تعطیل شدن شبکه اجتماعی ان اف تی 
  47:32 - ایران و سرقت بانک ملی و ایران و ... 
@@ -29,27 +29,27 @@
 
  #### - [رادیوگیک - شماره ۱۴۰ - و. و. و. و. و. بومممم!](https://anchor.fm/radiojadi/episodes/------e1i9a3q) 
  <details>    
- - مشکلات امنیتی بویینگ و بحث اینکه اگر دقیق نگاه کنیم، همه جا پر از مشکله &lpar;از جمله گوگل داکز&rpar;، [https://www.wsj.com/articles/boeing-dreamliner-delays-faa-defects-11651067545]&lpar;https://www.wsj.com/articles/boeing-dreamliner-delays-faa-defects-11651067545&rpar; 
- - عملیات خرابکاری چین، [https://therecord.media/operation-cuckoobees-apt41-cybereason-winnti-group/]&lpar;https://therecord.media/operation-cuckoobees-apt41-cybereason-winnti-group/&rpar; 
- - تلاش آلمان برای جذب تولید کننده‌های تراشه‌ها به داخل کشور،‌ [https://www.theregister.com/2022/05/06/germany_chipmaker_subsidies/]&lpar;https://www.theregister.com/2022/05/06/germany_chipmaker_subsidies/&rpar; 
- - لوحه‌های ۳۲۰۰ساله مصر در مورد دلایل سر کار نیامدن کارگران، [https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html]&lpar;https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html&rpar; 
- - غیب شدن توسعه دهنده ارشد ان.تی.اف.اس. لینوکس و مشکلات ناشی از اون، [https://www.theregister.com/2022/04/29/problems_for_the_linux_kernel_ntfs/]&lpar;https://www.theregister.com/2022/04/29/problems_for_the_linux_kernel_ntfs/&rpar; 
- - بنز هم خودروی خودران سطح ۳ معرفی می‌کنه، [https://www.motor1.com/news/584121/mercedes-level-3-autonomous-tech-on-sale/]&lpar;https://www.motor1.com/news/584121/mercedes-level-3-autonomous-tech-on-sale/&rpar; 
+ - مشکلات امنیتی بویینگ و بحث اینکه اگر دقیق نگاه کنیم، همه جا پر از مشکله (از جمله گوگل داکز)، [https://www.wsj.com/articles/boeing-dreamliner-delays-faa-defects-11651067545](https://www.wsj.com/articles/boeing-dreamliner-delays-faa-defects-11651067545) 
+ - عملیات خرابکاری چین، [https://therecord.media/operation-cuckoobees-apt41-cybereason-winnti-group/](https://therecord.media/operation-cuckoobees-apt41-cybereason-winnti-group/) 
+ - تلاش آلمان برای جذب تولید کننده‌های تراشه‌ها به داخل کشور،‌ [https://www.theregister.com/2022/05/06/germany_chipmaker_subsidies/](https://www.theregister.com/2022/05/06/germany_chipmaker_subsidies/) 
+ - لوحه‌های ۳۲۰۰ساله مصر در مورد دلایل سر کار نیامدن کارگران، [https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html](https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html) 
+ - غیب شدن توسعه دهنده ارشد ان.تی.اف.اس. لینوکس و مشکلات ناشی از اون، [https://www.theregister.com/2022/04/29/problems_for_the_linux_kernel_ntfs/](https://www.theregister.com/2022/04/29/problems_for_the_linux_kernel_ntfs/) 
+ - بنز هم خودروی خودران سطح ۳ معرفی می‌کنه، [https://www.motor1.com/news/584121/mercedes-level-3-autonomous-tech-on-sale/](https://www.motor1.com/news/584121/mercedes-level-3-autonomous-tech-on-sale/) 
  </details> 
  <hr /> 
 
  #### - [رادیوگیک - شماره ۱۳۹ - اتحادیه‌های پسا کوانتوم](https://anchor.fm/radiojadi/episodes/------e1hkmen) 
  <details>  در این شماره می‌بینیم که وقتی کامپیوترهای کوانتومی بیان، ما چطوری امن می‌مونیم، می‌بینیم چه اطلاعاتی از من لو رفته، نگاهی به اینترنت اوکراین و اهمیت اتحادیه‌ها می‌ندازیم و از روی صدا، چهره آدم‌ها رو بازسازی می‌کنین. با ما باشین که دنیا هکرهای بیشتری می‌خواهد. 
- 00:00 - شروع&amp;nbsp; 
- 02:20 - حرکت اوپن اس اس اچ به رمزنگاری پسا کوانتومی&amp;nbsp; 
- 08:02 - دگمه میوت، شاید اونکاری که شما می‌خواین رو نمی‌کنه&amp;nbsp; 
- 10:25 - جستجو در نشت‌های ایرانی&amp;nbsp; 
- 13:59 - تلاش اوکراین برای نگه داشتن اینترنتش&amp;nbsp; 
- 20:30 - اتحادیه فروشندگان&amp;nbsp; 
- 26:40 - حمله تایپواسکواتینگ آژر&amp;nbsp; 
- 32:21 - هوش مصنوعی ساخت چهره از روی صدا&amp;nbsp; 
- 38:20 - دستگیری‌های در دارک‌نت&amp;nbsp; 
- 40:10 - بخش پایانی&amp;nbsp; 
+ 00:00 - شروع&nbsp; 
+ 02:20 - حرکت اوپن اس اس اچ به رمزنگاری پسا کوانتومی&nbsp; 
+ 08:02 - دگمه میوت، شاید اونکاری که شما می‌خواین رو نمی‌کنه&nbsp; 
+ 10:25 - جستجو در نشت‌های ایرانی&nbsp; 
+ 13:59 - تلاش اوکراین برای نگه داشتن اینترنتش&nbsp; 
+ 20:30 - اتحادیه فروشندگان&nbsp; 
+ 26:40 - حمله تایپواسکواتینگ آژر&nbsp; 
+ 32:21 - هوش مصنوعی ساخت چهره از روی صدا&nbsp; 
+ 38:20 - دستگیری‌های در دارک‌نت&nbsp; 
+ 40:10 - بخش پایانی&nbsp; 
  48:40 - تبریک ها 
  </details> 
  <hr /> 
@@ -68,39 +68,39 @@
  29:01 - غیرفعال/اشتراکی شدن آپشن های نرم افزاری خودروهای مدرن 
  32:51- جایزه تورینگ برای جک دونگارا 
  33:42 - بخش آخر 
- 35:15 - پیام های &amp;nbsp;شما 
+ 35:15 - پیام های &nbsp;شما 
  </details> 
  <hr /> 
 
  #### - [رادیوگیک - ۱۳۷ - کارها رو بگیر دست خودت](https://anchor.fm/radiojadi/episodes/-----e1fuki1) 
  <details>  در آخرین شماره سال ۱۴۰۰، از هکری میگیم که کارها رو دست خودش گرفت و اینترنت کره شمالی رو قطع کرد، نبرد سایبری اوکراین رو می یبنیم، یه شوت کوین واقعی و قوانین جدیدی برای حمایت از مصرف کننده های ابزارهای دیجیتال و کلی قصه دیگه. با ما باشین که ۱۴۰۱ رو با هکرهایی بیشتری شروع کنیم. 
    
- 00:00 - شروع&amp;nbsp; 
- 02:17 - کره شمالی این هکر رو هک کرد و این هکر اینترنت کره شمالی رو قطع کرد&amp;nbsp; 
- 11:46 - بررسی نبرد سایبری اوکراین و روسیه&amp;nbsp; 
- 17:30 - قانونی برای اجبار کارفرما به ذکر حقوق و مزایای دقیق در آگهی شغلی&amp;nbsp; 
- 22:00 - شت کوین واقعی&amp;nbsp; 
- 24:55 - فیرفون، تلفن دوست دار محیط زیست&amp;nbsp; 
- 26:40 - قانونی برای اجبار تولید کننده ها به قابل تعویض کردن باتری ها&amp;nbsp; 
- 27:53 - باگ های لینوکس سریعتر از هر باگ دیگه ای حل می شه &lpar;و البته گپ ۲ تا باگ بزرگ اخیر&rpar;&amp;nbsp; 
- 31:15 - دانشجوی پزشکی‌ای که توی گوشش هدفون بلوتوث کاشت تا بتونه باهاش تقلب کنه&amp;nbsp; 
- 32:59 - حمایت‌ها و نامه‌ها&amp;nbsp; 
- 37:47 - پیام‌های تبریک و غیره &lpar;: 
+ 00:00 - شروع&nbsp; 
+ 02:17 - کره شمالی این هکر رو هک کرد و این هکر اینترنت کره شمالی رو قطع کرد&nbsp; 
+ 11:46 - بررسی نبرد سایبری اوکراین و روسیه&nbsp; 
+ 17:30 - قانونی برای اجبار کارفرما به ذکر حقوق و مزایای دقیق در آگهی شغلی&nbsp; 
+ 22:00 - شت کوین واقعی&nbsp; 
+ 24:55 - فیرفون، تلفن دوست دار محیط زیست&nbsp; 
+ 26:40 - قانونی برای اجبار تولید کننده ها به قابل تعویض کردن باتری ها&nbsp; 
+ 27:53 - باگ های لینوکس سریعتر از هر باگ دیگه ای حل می شه (و البته گپ ۲ تا باگ بزرگ اخیر)&nbsp; 
+ 31:15 - دانشجوی پزشکی‌ای که توی گوشش هدفون بلوتوث کاشت تا بتونه باهاش تقلب کنه&nbsp; 
+ 32:59 - حمایت‌ها و نامه‌ها&nbsp; 
+ 37:47 - پیام‌های تبریک و غیره (: 
  </details> 
  <hr /> 
 
  #### - [رادیوگیک - شماره ۱۳۶ - صیانتگران دره طرشت](https://anchor.fm/radiojadi/episodes/------e1ern9p) 
- <details>  همه دارن ادا در میارن. بعضی ها ادای چین رو. بعضی های ادای سیلیکون ولی رو و بعضی ها ادای پولدار شدن رو و ما هم ادای امیدواری رو &lpar;: ولی شاید جالبتر از همه، کامپیوتری که ادای برنامه نویسی در میاره، بهتر از اکثرما! با رادیوگیک باشین چون جهان به هکرهای بیشتری نیاز داره. 
- 00:00 - دره طرشت در مقابل سیلیکون ولی و فرقه هواپیما 02:43 - دره طرشت&amp;nbsp; 
- 07:10 - دارندگان ان اف تی خرید و فروشش می کنن تا قیمت رو حفظ کنن]&lpar;[https://www.engadget.com/nft-wash-trading-scams-chainanalysis-report-202537095.html]&lpar;https://www.engadget.com/nft-wash-trading-scams-chainanalysis-report-202537095.html&rpar;&rpar;&amp;nbsp; 
- 13:04 - چرا اف بی آی به ورزشکارهایی که به چین می رن می گه موبایل خودشون رو نبرن]&lpar;[https://www.npr.org/2022/02/04/1078358070/why-the-fbi-has-been-telling-athletes-heading-to-the-olympics-to-bring-a-burner-]&lpar;https://www.npr.org/2022/02/04/1078358070/why-the-fbi-has-been-telling-athletes-heading-to-the-olympics-to-bring-a-burner-&rpar;&rpar;&amp;nbsp; 
- 16:42 - بلک بری پتنت هاش رو به قیمت ۶۰۰ میلیون دلار به ترول ها می فروشه]&lpar;[https://appleinsider.com/articles/22/01/31/blackberry-sells-mobile-patents-to-patent-troll-for-600m]&lpar;https://appleinsider.com/articles/22/01/31/blackberry-sells-mobile-patents-to-patent-troll-for-600m&rpar;&rpar;&amp;nbsp; 
- 27:04 - صیانت در ایران&amp;nbsp; 
- 38:21 - هوش مصنوعی ای که برنامه می نویسه]&lpar;[https://analyticsindiamag.com/copilot-vs-alphacode-the-race-for-coding-supremacy/]&lpar;https://analyticsindiamag.com/copilot-vs-alphacode-the-race-for-coding-supremacy/&rpar;&rpar;&amp;nbsp; 
- 46:30 - جوابیه ترزور به هک شدن سخت افزارش]&lpar;[https://finbold.com/trezor-responds-after-youtuber-hacks-its-hardware-wallet-recovering-2-million-in-crypto/]&lpar;https://finbold.com/trezor-responds-after-youtuber-hacks-its-hardware-wallet-recovering-2-million-in-crypto/&rpar;&rpar;&amp;nbsp; 
- 51:50 - ای ام دی و خرید ۵۰ میلیارد دلاری زیلینکس]&lpar;[https://www.reuters.com/technology/amd-closes-biggest-chip-acquisition-with-498-bln-purchase-xilinx-2022-02-14/]&lpar;https://www.reuters.com/technology/amd-closes-biggest-chip-acquisition-with-498-bln-purchase-xilinx-2022-02-14/&rpar;&rpar;&amp;nbsp; 
- 53:50 - و البته اینتل هم که اعلام کرده می خواد پردازنده هایی مخصوص ماین بسازه که ۱۰۰۰برابر بهتر از جی پی یو ها هستن]&lpar;[https://www.intel.com/content/www/us/en/newsroom/opinion/thoughts-blockchain-custom-compute-group.html#gs.pp1y7u]&lpar;https://www.intel.com/content/www/us/en/newsroom/opinion/thoughts-blockchain-custom-compute-group.html#gs.pp1y7u&rpar;&rpar;&amp;nbsp; 
- 56:52 - حمایت ها&amp;nbsp; 
+ <details>  همه دارن ادا در میارن. بعضی ها ادای چین رو. بعضی های ادای سیلیکون ولی رو و بعضی ها ادای پولدار شدن رو و ما هم ادای امیدواری رو (: ولی شاید جالبتر از همه، کامپیوتری که ادای برنامه نویسی در میاره، بهتر از اکثرما! با رادیوگیک باشین چون جهان به هکرهای بیشتری نیاز داره. 
+ 00:00 - دره طرشت در مقابل سیلیکون ولی و فرقه هواپیما 02:43 - دره طرشت&nbsp; 
+ 07:10 - دارندگان ان اف تی خرید و فروشش می کنن تا قیمت رو حفظ کنن]([https://www.engadget.com/nft-wash-trading-scams-chainanalysis-report-202537095.html](https://www.engadget.com/nft-wash-trading-scams-chainanalysis-report-202537095.html))&nbsp; 
+ 13:04 - چرا اف بی آی به ورزشکارهایی که به چین می رن می گه موبایل خودشون رو نبرن]([https://www.npr.org/2022/02/04/1078358070/why-the-fbi-has-been-telling-athletes-heading-to-the-olympics-to-bring-a-burner-](https://www.npr.org/2022/02/04/1078358070/why-the-fbi-has-been-telling-athletes-heading-to-the-olympics-to-bring-a-burner-))&nbsp; 
+ 16:42 - بلک بری پتنت هاش رو به قیمت ۶۰۰ میلیون دلار به ترول ها می فروشه]([https://appleinsider.com/articles/22/01/31/blackberry-sells-mobile-patents-to-patent-troll-for-600m](https://appleinsider.com/articles/22/01/31/blackberry-sells-mobile-patents-to-patent-troll-for-600m))&nbsp; 
+ 27:04 - صیانت در ایران&nbsp; 
+ 38:21 - هوش مصنوعی ای که برنامه می نویسه]([https://analyticsindiamag.com/copilot-vs-alphacode-the-race-for-coding-supremacy/](https://analyticsindiamag.com/copilot-vs-alphacode-the-race-for-coding-supremacy/))&nbsp; 
+ 46:30 - جوابیه ترزور به هک شدن سخت افزارش]([https://finbold.com/trezor-responds-after-youtuber-hacks-its-hardware-wallet-recovering-2-million-in-crypto/](https://finbold.com/trezor-responds-after-youtuber-hacks-its-hardware-wallet-recovering-2-million-in-crypto/))&nbsp; 
+ 51:50 - ای ام دی و خرید ۵۰ میلیارد دلاری زیلینکس]([https://www.reuters.com/technology/amd-closes-biggest-chip-acquisition-with-498-bln-purchase-xilinx-2022-02-14/](https://www.reuters.com/technology/amd-closes-biggest-chip-acquisition-with-498-bln-purchase-xilinx-2022-02-14/))&nbsp; 
+ 53:50 - و البته اینتل هم که اعلام کرده می خواد پردازنده هایی مخصوص ماین بسازه که ۱۰۰۰برابر بهتر از جی پی یو ها هستن]([https://www.intel.com/content/www/us/en/newsroom/opinion/thoughts-blockchain-custom-compute-group.html#gs.pp1y7u](https://www.intel.com/content/www/us/en/newsroom/opinion/thoughts-blockchain-custom-compute-group.html#gs.pp1y7u))&nbsp; 
+ 56:52 - حمایت ها&nbsp; 
  58:50 - پیام میام ها 
  </details> 
  <hr /> 
@@ -125,13 +125,13 @@
  #### - [رادیوگیک - شماره ۱۳۴ - شاه مکانیکی](https://anchor.fm/radiojadi/episodes/------e1d3r35) 
  <details>  رادیوگیک این هفته به ماجرای هکرهای روسی و چینی نگاه می‌کنه و ناامنی URl رو بررسی می‌کنه اما با نگاهی وسیع‌تر. همچنین به حق فراموشی در ایران می‌پردازیم و صندوق سرمایه حمایت حقوقی از توسعه دهندگان بیت‌کوین و بررسی می کنیم ببینیم می‌شه شاه رو با یه ماشین جایگزین کرد یا نه. 
  00:00 - شروع 
- 01:50 - [دستگیری آر.ایول]&lpar;https://www.wsj.com/articles/russia-says-it-raided-prolific-ransomware-group-revil-with-arrests-seizures-11642179589&rpar; 
- 07:16 - [جاسوسی گوشی‌های شیائومی]&lpar;https://taipeitimes.com/News/front/archives/2022/01/08/2003770963&rpar; 
- 10:21 - [حمله به یو.آر.ال. ها و بحث کلی]&lpar;https://www.techrepublic.com/article/url-parsing-a-ticking-time-bomb-of-security-exploits/&rpar; 
- 18:30 - [کنون و کمبود چیپ]&lpar;https://boingboing.net/2022/01/08/forced-by-shortages-to-sell-chipless-cartridges-canon-tells-customers-how-to-bypass-drm-warnings.html&rpar; 
- 22:31 - [دایرکتوری حق فراموشی ایران]&lpar;https://rtbf.ir/&rpar; 
- 27:05 - [شاه مکانیکی]&lpar;https://www.strangeloopcanon.com/p/the-mechanical-king&rpar; 
- 32:29 - [صندوق سرمایه دفاع حقوقی توسعه دهندگان بیت‌کوین]&lpar;https://cointelegraph.com/news/jack-dorsey-announces-bitcoin-legal-defense-fund&rpar; 
+ 01:50 - [دستگیری آر.ایول](https://www.wsj.com/articles/russia-says-it-raided-prolific-ransomware-group-revil-with-arrests-seizures-11642179589) 
+ 07:16 - [جاسوسی گوشی‌های شیائومی](https://taipeitimes.com/News/front/archives/2022/01/08/2003770963) 
+ 10:21 - [حمله به یو.آر.ال. ها و بحث کلی](https://www.techrepublic.com/article/url-parsing-a-ticking-time-bomb-of-security-exploits/) 
+ 18:30 - [کنون و کمبود چیپ](https://boingboing.net/2022/01/08/forced-by-shortages-to-sell-chipless-cartridges-canon-tells-customers-how-to-bypass-drm-warnings.html) 
+ 22:31 - [دایرکتوری حق فراموشی ایران](https://rtbf.ir/) 
+ 27:05 - [شاه مکانیکی](https://www.strangeloopcanon.com/p/the-mechanical-king) 
+ 32:29 - [صندوق سرمایه دفاع حقوقی توسعه دهندگان بیت‌کوین](https://cointelegraph.com/news/jack-dorsey-announces-bitcoin-legal-defense-fund) 
  36:40 - تبریک‌ها و تقبیح‌ها و اخبار دیگه 
  39:50 - تشکرهای خودم 
  41:50 - نامه‌ای که تشکر لازم داره 
@@ -142,13 +142,13 @@
  #### - [رادیوگیک شماره ۱۳۳.۵ - جیمز وب در فضا](https://anchor.fm/radiojadi/episodes/--e1c826j) 
  <details>  در شماره ۱۳۳.۵ از رادیوگیک، به خبرهای هفته گذشته نگاه میکنیم و غیب شدن شماره ۱۳۲ رو جبران میکنیم. تلسکوپ جیمزوب، آمازون و رهبر چین و تحلیل عمیقی از بدافزار آیفون ماجراهای اصلی این هفته بودن و لاگ ۴ جی هم که هنوز میتازه و سگها از فیزیک نیوتون سر درمیارن. 
    
- 00:00 - شروع&amp;nbsp; 
- 00:17 - [تلسکوپ جیمز وب]&lpar;https://www.cnn.com/2021/12/25/world/james-webb-space-telescope-launch-scn/index.html&rpar; 
- 09:33 - [گزارش گوگل از بدافزارهای NSO]&lpar;https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html&rpar; 
- 20:22 - [ادامه ماجراهای لاگ۴جی]&lpar;https://www.grc.com/sn/SN-850-Notes.pdf&rpar; 
- 27:59 - [آمازون و رهبر چین]&lpar;https://www.reuters.com/world/china/amazon-partnered-with-china-propaganda-arm-win-beijings-favor-document-shows-2021-12-17/&rpar; 
- 31:55 - [مسیر پیش روی دوج کوین]&lpar;https://foundation.dogecoin.com/trailmap/prologue/&rpar; 
- 35:37 - [درک سگ ها از فیزیک نیوتونی]&lpar;https://www.newscientist.com/article/2302655-dogs-notice-when-computer-animations-violate-newtons-laws-of-physics/&rpar; 
+ 00:00 - شروع&nbsp; 
+ 00:17 - [تلسکوپ جیمز وب](https://www.cnn.com/2021/12/25/world/james-webb-space-telescope-launch-scn/index.html) 
+ 09:33 - [گزارش گوگل از بدافزارهای NSO](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html) 
+ 20:22 - [ادامه ماجراهای لاگ۴جی](https://www.grc.com/sn/SN-850-Notes.pdf) 
+ 27:59 - [آمازون و رهبر چین](https://www.reuters.com/world/china/amazon-partnered-with-china-propaganda-arm-win-beijings-favor-document-shows-2021-12-17/) 
+ 31:55 - [مسیر پیش روی دوج کوین](https://foundation.dogecoin.com/trailmap/prologue/) 
+ 35:37 - [درک سگ ها از فیزیک نیوتونی](https://www.newscientist.com/article/2302655-dogs-notice-when-computer-animations-violate-newtons-laws-of-physics/) 
  38:55 - حمایت ها، نامه ها 
  42:50 - تبریک ها و بقیه قصه های آخر کاری 
    
@@ -156,21 +156,21 @@
  <hr /> 
 
  #### - [رادیوگیک - شماره ۱۳۳ - تیش تیش تیش گرفته، اینترنت آتیش گرفته](https://anchor.fm/radiojadi/episodes/------e1bmglr) 
- <details>  در شماره ۱۳۳ رادیوگیک به لاگ۴شل نگاه می‌کنیم &amp;nbsp;که اینترنت رو به آتیش کشیده و بررسی می کنیم که آیا در این دنیا می شه آدم خوبی بود؟‌ درباب اجباری شدن اینماد حرف می زنیم و ماجرای کسر پول ماهانه توسط فیلیمو و تکنیک سرقت ماشین با ایرتگ‌های اپل و ... 
+ <details>  در شماره ۱۳۳ رادیوگیک به لاگ۴شل نگاه می‌کنیم &nbsp;که اینترنت رو به آتیش کشیده و بررسی می کنیم که آیا در این دنیا می شه آدم خوبی بود؟‌ درباب اجباری شدن اینماد حرف می زنیم و ماجرای کسر پول ماهانه توسط فیلیمو و تکنیک سرقت ماشین با ایرتگ‌های اپل و ... 
    
- 00:00 - شروع 01:35 - [باگ لاگ ۴ شل]&lpar;https://www.wired.com/story/log4j-flaw-hacking-internet/&rpar;&amp;nbsp; 
- 08:05 - [صدای دیپ فیک دی جی]&lpar;https://www.reuters.com/technology/that-radio-dj-you-hear-might-already-be-robot-2021-12-02/&rpar; 
- 12:02 - [سرمایه گذاری اسپاتیفای در صنایع نظامی]&lpar;https://ra.co/news/76439?fbclid=IwAR2MYG-m5ToA8VX8Q3VYyGt846IokpqyYglQlpgLQ398-NlyReduhywV4EM&rpar; 
- 18:00 - [اجباری شدن اینماد]&lpar;https://tejaratnews.com/startup/%D9%85%D8%B4%DA%A9%D9%84-%DA%A9%D8%B3%D8%A8-%D9%88-%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C&rpar; 
- 22:33 - [اپل بیزنس]&lpar;https://business.apple.com/&rpar; 
- 24:56 - [اسناد شنود اف بی آی در مورد مسنجرها]&lpar;https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/&rpar; 30:07 - به سمت ساحل 
- 30:25 - [حق تعمیر در مصولات اپل]&lpar;https://www.computerworld.com/article/3634384/apples-latest-right-to-repair-trick-is-delightfully-evil.html&rpar; 
- 31:20 - [استفاده از ایرتگ های اپل برای سرقت]&lpar;https://arstechnica.com/cars/2021/12/apple-airtags-being-used-by-thieves-to-track-high-end-cars-to-steal/&rpar; 
- 33:50 - [برداشت ماهانه از حساب در ایران]&lpar;https://twitter.com/mohsenfallahnjd/status/1470001857527697409&rpar; 
- 41:15 - [سرقت ۱۲۰ میلیون دلار از دیفای ها]&lpar;https://www.theverge.com/2021/12/2/22814849/badgerdao-defi-120-million-hack-bitcoin-ethereum&rpar; 
- 41:50 - [جک دوری و تبدیل اسکوئر به بلاک]&lpar;https://www.businesswire.com/news/home/20211201006139/en/Square-Inc.-Changes-Name-to-Block&rpar; 
- 42:20 - [استارتاپ مسیو برای اجاره وقت سی پی یو]&lpar;https://techcrunch.com/2021/11/30/massive-wants-to-rent-your-spare-compute-power-to-pay-for-apps/&rpar; 
- 43:25 - [کریگ رایت و جریمه به خاطر ادعای ساتوشی بودن]&lpar;https://www.bloomberg.com/news/articles/2021-12-06/self-described-bitcoin-creator-must-pay-100-million-in-lawsuit&rpar; 
+ 00:00 - شروع 01:35 - [باگ لاگ ۴ شل](https://www.wired.com/story/log4j-flaw-hacking-internet/)&nbsp; 
+ 08:05 - [صدای دیپ فیک دی جی](https://www.reuters.com/technology/that-radio-dj-you-hear-might-already-be-robot-2021-12-02/) 
+ 12:02 - [سرمایه گذاری اسپاتیفای در صنایع نظامی](https://ra.co/news/76439?fbclid=IwAR2MYG-m5ToA8VX8Q3VYyGt846IokpqyYglQlpgLQ398-NlyReduhywV4EM) 
+ 18:00 - [اجباری شدن اینماد](https://tejaratnews.com/startup/%D9%85%D8%B4%DA%A9%D9%84-%DA%A9%D8%B3%D8%A8-%D9%88-%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C) 
+ 22:33 - [اپل بیزنس](https://business.apple.com/) 
+ 24:56 - [اسناد شنود اف بی آی در مورد مسنجرها](https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/) 30:07 - به سمت ساحل 
+ 30:25 - [حق تعمیر در مصولات اپل](https://www.computerworld.com/article/3634384/apples-latest-right-to-repair-trick-is-delightfully-evil.html) 
+ 31:20 - [استفاده از ایرتگ های اپل برای سرقت](https://arstechnica.com/cars/2021/12/apple-airtags-being-used-by-thieves-to-track-high-end-cars-to-steal/) 
+ 33:50 - [برداشت ماهانه از حساب در ایران](https://twitter.com/mohsenfallahnjd/status/1470001857527697409) 
+ 41:15 - [سرقت ۱۲۰ میلیون دلار از دیفای ها](https://www.theverge.com/2021/12/2/22814849/badgerdao-defi-120-million-hack-bitcoin-ethereum) 
+ 41:50 - [جک دوری و تبدیل اسکوئر به بلاک](https://www.businesswire.com/news/home/20211201006139/en/Square-Inc.-Changes-Name-to-Block) 
+ 42:20 - [استارتاپ مسیو برای اجاره وقت سی پی یو](https://techcrunch.com/2021/11/30/massive-wants-to-rent-your-spare-compute-power-to-pay-for-apps/) 
+ 43:25 - [کریگ رایت و جریمه به خاطر ادعای ساتوشی بودن](https://www.bloomberg.com/news/articles/2021-12-06/self-described-bitcoin-creator-must-pay-100-million-in-lawsuit) 
  46:00 - نامه‌ها 
  </details> 
  <hr /> 
@@ -182,10 +182,10 @@
  01:40 - متاورس 
  20:23 - هک پمپ بنزین ها 
  25:55 - چنج تپ روت بیت کوین با حضور زی 
- 58:03 - &amp;lt;a href=&quot;https://trojansource.codes/trojan-source.pdf&quot;&amp;gt;حمله امنیتی تروجان سورس&amp;lt;/a&amp;gt; 
+ 58:03 - &lt;a href="https://trojansource.codes/trojan-source.pdf"&gt;حمله امنیتی تروجان سورس&lt;/a&gt; 
    
- 67:12 - &amp;lt;a href=&quot;https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting&quot;&amp;gt;تایپ با تصور کردن مداد و کاغذ&amp;lt;/a&amp;gt; 
- 70:51 - &amp;lt;a href=&quot;https://www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html&quot;&amp;gt;تشخیص چهره پلیس اسراییل علیه فلسطینی ها&amp;lt;/a&amp;gt; 
+ 67:12 - &lt;a href="https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting"&gt;تایپ با تصور کردن مداد و کاغذ&lt;/a&gt; 
+ 70:51 - &lt;a href="https://www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html"&gt;تشخیص چهره پلیس اسراییل علیه فلسطینی ها&lt;/a&gt; 
  75:44 - اینترنت چیزها و جو گیر نبودن 
    
  78:33 - نامه ها و حمایت ها و تبریک ها 
@@ -201,11 +201,11 @@
  <details>  در رادیوگیک شماره ۱۲۹ از سوراخ کلید به داخل اتاق نگاه می‌کنیم و بررسی می‌کنیم که چرا دیروز فیسبوک و ملحقاتش از اینترنت محو شده بودن. نگاهی به قوانین اتحادیه اروپا داریم و با زیرنویس هایی که تازه کشفشون کردیم ور می‌ریم. با ما باشین که دنیا هکرهای بیشتری لازم داره! 
    
  00:00 - شروع 
- 02:12 - فقط با یک لیزر، ببینید در یک اتاق چه خبره&amp;nbsp; 
+ 02:12 - فقط با یک لیزر، ببینید در یک اتاق چه خبره&nbsp; 
  08:05 - مشکلات پرایوسی در پروتون میل 
  15:40 - کلیسای شیطانی علیه ممنوعیت سقط جنین شکایت می‌کنه 
  19:33 - اروپا استفاده از یو اس بی سی برای شارژ رو اجباری می‌کنه 
- &amp;nbsp;&amp;nbsp;## روی آب&amp;nbsp; 
+ &nbsp;&nbsp;## روی آب&nbsp; 
  24:45 - فهم اینکه چرا دیروز فیسبوک از صحنه اینترنت محو شد 
  33:43 - بازگردانی مشکلات شناخته شده ویندوز 
  37:06 - کروم او اس دومین سیستم عامل دسکتاپ جهان شد 
@@ -217,18 +217,18 @@
  <hr /> 
 
  #### - [رادیوگیک - شماره ۱۲۸ - اشعه کیهانی علیه انتخابات](https://anchor.fm/radiojadi/episodes/------e16ub3p) 
- <details>  در رادیوگیک شماره ۱۲۸ در مورد دنیای آینده خیالپردازی می کنیم و پیشنهادی می دیم برای سنجیدن اونهایی که می گن باید همه چیز ما رو ببینن تا ما امن باشیم &lpar;: خبرها رو مرور می کنیم و در آخر به شکلی مفصلتر، سراغ اشعه کیهانی ای می ریم که نتایج انتخابات بلژیک رو جابجا کرد. با ما باشین که دنیا هکرهای بیشتری لازم داره. 
+ <details>  در رادیوگیک شماره ۱۲۸ در مورد دنیای آینده خیالپردازی می کنیم و پیشنهادی می دیم برای سنجیدن اونهایی که می گن باید همه چیز ما رو ببینن تا ما امن باشیم (: خبرها رو مرور می کنیم و در آخر به شکلی مفصلتر، سراغ اشعه کیهانی ای می ریم که نتایج انتخابات بلژیک رو جابجا کرد. با ما باشین که دنیا هکرهای بیشتری لازم داره. 
  00:00 شروع 
- 01:47 - [شروعویندوز ۳۶۵]&lpar;https://www.microsoft.com/en-us/windows-365&rpar; 
- 06:41 - [پرداخت عظیم سالانه گوگل به اپل برای حفظش به عنوان موتور جستجوی پیش فرض]&lpar;https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/&rpar; 
- 11:33 - [خودکار شدن چراغ‌های راهنمایی لس آنجلس و گپ هایی مهم در مورد شهرهای هوشمند]&lpar;https://www.zdnet.com/article/los-angeles-synchronizes-all-traffic-lights/&rpar; 
- 21:25 - [محدودیت بیشتر روی ساعت بازی کودکان در چین]&lpar;https://www.theverge.com/2021/8/30/22648107/china-curbs-gaming-addiction-3-hours-each-week-spiritual-opium&rpar; 
- 24:35 - [هک اوین]&lpar;https://www.cnbc.com/2021/08/25/onlyfans-says-it-will-no-longer-ban-porn-after-backlash-from-users.html&rpar; 
+ 01:47 - [شروعویندوز ۳۶۵](https://www.microsoft.com/en-us/windows-365) 
+ 06:41 - [پرداخت عظیم سالانه گوگل به اپل برای حفظش به عنوان موتور جستجوی پیش فرض](https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/) 
+ 11:33 - [خودکار شدن چراغ‌های راهنمایی لس آنجلس و گپ هایی مهم در مورد شهرهای هوشمند](https://www.zdnet.com/article/los-angeles-synchronizes-all-traffic-lights/) 
+ 21:25 - [محدودیت بیشتر روی ساعت بازی کودکان در چین](https://www.theverge.com/2021/8/30/22648107/china-curbs-gaming-addiction-3-hours-each-week-spiritual-opium) 
+ 24:35 - [هک اوین](https://www.cnbc.com/2021/08/25/onlyfans-says-it-will-no-longer-ban-porn-after-backlash-from-users.html) 
    
  روی آب 
    
- 29:41 - [اونلی فنز به اونلی فنز بودن ادامه می ده]&lpar;https://www.cnbc.com/2021/08/25/onlyfans-says-it-will-no-longer-ban-porn-after-backlash-from-users.html&rpar; 
- 34:30 - [هکری که ۶۰۰ میلیون از پالی نتورک دزدیده بود و بعد پس داده بود، حالا همونجا استخدام شده]&lpar;https://www.pcgamer.com/uk/the-hacker-who-stole-and-gave-back-dollar600m-has-been-offered-a-job-and-reward-from-the-company-he-stole-from/&rpar; 
+ 29:41 - [اونلی فنز به اونلی فنز بودن ادامه می ده](https://www.cnbc.com/2021/08/25/onlyfans-says-it-will-no-longer-ban-porn-after-backlash-from-users.html) 
+ 34:30 - [هکری که ۶۰۰ میلیون از پالی نتورک دزدیده بود و بعد پس داده بود، حالا همونجا استخدام شده](https://www.pcgamer.com/uk/the-hacker-who-stole-and-gave-back-dollar600m-has-been-offered-a-job-and-reward-from-the-company-he-stole-from/) 
    
  بحث طولانی 
    
@@ -242,15 +242,15 @@
  <details>  در یکی از بدترین دوران این دوران، خودمون رو جمع می کنیم و رادیو رو می دیم. روحیه ها رو باید حفظ کرد تا بشه ادامه داد. در ابتدای این شماره به وضعیت ایران و اطراف نگاه می کنیم و بعد می ریم سراغ خبرهامون. از کامپیوترهای کوانتومی تا پرایوسی و اپل و ابزارهاش. 
  # اعماق 
  01:09 - وضعیت ایران و اطراف 
- 09:43 - [بد افزار پگاسوس]&lpar;https://www.theguardian.com/news/2021/jul/18/what-is-pegasus-spyware-and-how-does-it-hack-phones&rpar; 
- 15:09 - [پیشرفت بزرگ کامپیوترهای کوانتومی در گوگل]&lpar;https://www.newscientist.com/article/2283945-google-demonstrates-vital-step-towards-large-scale-quantum-computers/?utm_term=Autofeed&amp;amp;utm_campaign=echobox&amp;amp;utm_medium=social&amp;amp;utm_source=Twitter#Echobox=1626735947&rpar; 
- 18:50 - [اپل و بحث های حریم شخصی در قوانین جدیدش]&lpar;https://www.theverge.com/2021/8/10/22613225/apple-csam-scanning-messages-child-safety-features-privacy-controversy-explained&rpar; 
+ 09:43 - [بد افزار پگاسوس](https://www.theguardian.com/news/2021/jul/18/what-is-pegasus-spyware-and-how-does-it-hack-phones) 
+ 15:09 - [پیشرفت بزرگ کامپیوترهای کوانتومی در گوگل](https://www.newscientist.com/article/2283945-google-demonstrates-vital-step-towards-large-scale-quantum-computers/?utm_term=Autofeed&amp;utm_campaign=echobox&amp;utm_medium=social&amp;utm_source=Twitter#Echobox=1626735947) 
+ 18:50 - [اپل و بحث های حریم شخصی در قوانین جدیدش](https://www.theverge.com/2021/8/10/22613225/apple-csam-scanning-messages-child-safety-features-privacy-controversy-explained) 
  # سطح آب 
- 27:14 - [بزرگترین سارق کریپتوکرنسی تاریخ، یک سوم پول رو برگردوند]&lpar;https://www.reuters.com/technology/defi-platform-poly-network-reports-hacking-loses-estimated-600-million-2021-08-11/&rpar; 
- 31:00 - [لپ تاپ فریمورک]&lpar;https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews&rpar; 
- 33:42 - [انتشار توزیع لینوکس مایکروسافت روی گیت هاب]&lpar;https://www.tomshardware.com/news/microsoft-released-cbl-mariner-linux-distro&rpar; 
- 35:45 &amp;nbsp;- [رسیدن به سرعت ۳۱۹ ترابیت در ثانیه در ژاپن]&lpar;https://www.vice.com/en/article/bvz5kd/japan-transfers-319-terabits-per-second-setting-internet-speed-record&rpar; 
- 36:40 - [سوییچ ولو از دبیان به آرچ[&lpar;https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/&rpar; 
+ 27:14 - [بزرگترین سارق کریپتوکرنسی تاریخ، یک سوم پول رو برگردوند](https://www.reuters.com/technology/defi-platform-poly-network-reports-hacking-loses-estimated-600-million-2021-08-11/) 
+ 31:00 - [لپ تاپ فریمورک](https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews) 
+ 33:42 - [انتشار توزیع لینوکس مایکروسافت روی گیت هاب](https://www.tomshardware.com/news/microsoft-released-cbl-mariner-linux-distro) 
+ 35:45 &nbsp;- [رسیدن به سرعت ۳۱۹ ترابیت در ثانیه در ژاپن](https://www.vice.com/en/article/bvz5kd/japan-transfers-319-terabits-per-second-setting-internet-speed-record) 
+ 36:40 - [سوییچ ولو از دبیان به آرچ[(https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/) 
  38:09 - تبریک ها و تقبیح ها 
  </details> 
  <hr /> 
@@ -286,7 +286,7 @@
  06:28 - نیویورک پلیس رباتیکش رو کنار گذاشت: https://www.wired.com/story/new-york-returns-police-robodog-after-public-outcry/ 
  10:27 - طولانی ترین پرواز مریخ نورد: https://www.cnet.com/news/mars-ingenuity-helicopter-goes-farther-and-faster-for-dramatic-fourth-flight/#ftag=CAD590a51e 
  14:29 - وضعیت ایران و شوخی هاش با ما 
- 18:54 - ویندوز، سافاری، اوبونتو و بقیه در روز پاون تو آون شکست خوردن: https://thehackernews.com/2021/04/windows-ubuntu-zoom-safari-ms-exchange.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29 
+ 18:54 - ویندوز، سافاری، اوبونتو و بقیه در روز پاون تو آون شکست خوردن: https://thehackernews.com/2021/04/windows-ubuntu-zoom-safari-ms-exchange.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29 
  23:30 - ظاهرا کارمندان آی بی ام ۱۰۰٪ زمانشون مال شرکتشون هستن: https://linuxreviews.org/IBM_Appears_To_Believe_They_Own_Their_Employees_%22100%25_of_the_time%22 
  26:40 - دانشگاه مینه‌سوتا از توسعه کرنل کنار گذاشته شد: https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021 
  30:35 - کلاس آموزشی معذرت خواهی دانشگاه مینه سوتا 
@@ -297,7 +297,7 @@
  <hr /> 
 
  #### - [رادیوگیک - شماره ۱۲۲ - پونگ ذهنی](https://anchor.fm/radiojadi/episodes/------ev6m2l) 
- <details>  در این شماره از رادیوگیک، اول نگاهی به نورولینک داریم و ارتباط مغز میمون با کامپیوتر و بعدش در مورد قوانین کنترلی هوش مصنوعی در اروپا حرف می‌زنیم. همچنین در مورد &amp;nbsp;خلاف با بیتکوین و بازی سازان ایرانی و اتحادیه ای که در اعتصاب، آی اس پی خودش رو می‌سازه. با ما باشین که جهان نیاز به تغییر داره. &amp;nbsp; 
+ <details>  در این شماره از رادیوگیک، اول نگاهی به نورولینک داریم و ارتباط مغز میمون با کامپیوتر و بعدش در مورد قوانین کنترلی هوش مصنوعی در اروپا حرف می‌زنیم. همچنین در مورد &nbsp;خلاف با بیتکوین و بازی سازان ایرانی و اتحادیه ای که در اعتصاب، آی اس پی خودش رو می‌سازه. با ما باشین که جهان نیاز به تغییر داره. &nbsp; 
    
  </details> 
  <hr /> 
@@ -308,12 +308,12 @@
  <hr /> 
 
  #### - [رادیوگیک - شماره ۱۲۰ - مبین‌نت، ابرآروان و تابلوی ۶۹ میلیون دلاری](https://anchor.fm/radiojadi/episodes/------etc935) 
- <details>  خبرهای این هفته اینقدر داغ بود که اصلا جا نداشت بریم سراغ رادیوی ویژه، تو این شماره به ترتیب در مورد ماجرای بدافزار ماین کننده رمزارز روی مودم های مبین نت، ماجرای ابرآروان، ماجرای کلاب هاوس و ماجرای فروش یک فایل jpg به قیمت ۶۹ میلیون دلار و بحث NFTها می‌پردازیم. با ما باشین که ماجراها زیادن! &lpar;: 
+ <details>  خبرهای این هفته اینقدر داغ بود که اصلا جا نداشت بریم سراغ رادیوی ویژه، تو این شماره به ترتیب در مورد ماجرای بدافزار ماین کننده رمزارز روی مودم های مبین نت، ماجرای ابرآروان، ماجرای کلاب هاوس و ماجرای فروش یک فایل jpg به قیمت ۶۹ میلیون دلار و بحث NFTها می‌پردازیم. با ما باشین که ماجراها زیادن! (: 
  </details> 
  <hr /> 
 
  #### - [رادیوگیک - شماره ۱۱۹ - گیجی وابستگی](https://anchor.fm/radiojadi/episodes/------ers8si) 
- <details>  در این شماره، اولش نگاهی طولانی داریم به هکی که موفق شده اپل، مایکروسافت، اوبر، یلپ و کلی جای دیگه رو یکضرب هک کنه &amp;nbsp;و ازشون بالاترین میزان باونتی ها رو بگیره. بعد نگاهی به شرایط ایران و نظر گیتس در مورد بیت کوین و کلی چیز دیگه، شامل هلی‌کوپتر توی مریخ! با ما باشین که جهان به هکرهای بیشتری نیاز داره 
+ <details>  در این شماره، اولش نگاهی طولانی داریم به هکی که موفق شده اپل، مایکروسافت، اوبر، یلپ و کلی جای دیگه رو یکضرب هک کنه &nbsp;و ازشون بالاترین میزان باونتی ها رو بگیره. بعد نگاهی به شرایط ایران و نظر گیتس در مورد بیت کوین و کلی چیز دیگه، شامل هلی‌کوپتر توی مریخ! با ما باشین که جهان به هکرهای بیشتری نیاز داره 
    
  </details> 
  <hr /> 
@@ -325,7 +325,7 @@
  <hr /> 
 
  #### - [رادیوگیک - ۱۱۷ - گیم‌استاپ و اشغال وال‌استریت](https://anchor.fm/radiojadi/episodes/-----epp7lb) 
- <details>  خبر محوری این هفته، ماجرای گیم استاپ و وال استریت بود. بالاخره مردم تونستن در نقطه‌ای وال‌استریت رو شکست بدن و همه هیجان زده بودن. به این خبر و تاثیرش روی دوج نگاه می‌کنیم و بحث اینکه آیا خواهیم تونست &amp;nbsp;سوپر هوش مصنوعی رو تحت کنترل بگیریم یا نه. با ما باشین با رادیوگیکی متمرکز! 
+ <details>  خبر محوری این هفته، ماجرای گیم استاپ و وال استریت بود. بالاخره مردم تونستن در نقطه‌ای وال‌استریت رو شکست بدن و همه هیجان زده بودن. به این خبر و تاثیرش روی دوج نگاه می‌کنیم و بحث اینکه آیا خواهیم تونست &nbsp;سوپر هوش مصنوعی رو تحت کنترل بگیریم یا نه. با ما باشین با رادیوگیکی متمرکز! 
  </details> 
  <hr /> 
 
@@ -351,7 +351,7 @@
  <hr /> 
 
  #### - [رادیوگیک - ۱۱۲ - بی‌خبری، خوش خبری](https://anchor.fm/radiojadi/episodes/-----enik3n) 
- <details>  این هفته در دنیا هم خبرهای کمی بوده ولی هکرها بیکار نبودن. خبرهای مرتبط با امنیت زیاده و همچین بحث‌های رباتیک و هوش مصنوعی. از نماینده مجارستان در پارتی ۲۵ مرده می گیم و اجبار اپل به دادن شارژر با گوشی‌هاش در برزیل &amp;nbsp;و جاروبرقی‌هایی که یواشکی به ما گوش میدن. 
+ <details>  این هفته در دنیا هم خبرهای کمی بوده ولی هکرها بیکار نبودن. خبرهای مرتبط با امنیت زیاده و همچین بحث‌های رباتیک و هوش مصنوعی. از نماینده مجارستان در پارتی ۲۵ مرده می گیم و اجبار اپل به دادن شارژر با گوشی‌هاش در برزیل &nbsp;و جاروبرقی‌هایی که یواشکی به ما گوش میدن. 
  </details> 
  <hr /> 
 
@@ -377,7 +377,7 @@
  <hr /> 
 
  #### - [رادیوگیک - شماره ۱۰۷ - گیرم که فلان... فشارو چه می‌کنی؟](https://anchor.fm/radiojadi/episodes/------el901n) 
- <details>  &amp;nbsp;در حالی که بهمون اکسیژن کافی نمی‌رسه، به ابررسانایی نگاه می‌کنیم که تو هوای اتاق کار می‌کنه و مشکل امنیتی لینوکس به اسم دندون خونی رو بررسی می‌کنیم و با &amp;nbsp;میبینیم چی می شه اگر دارویی هویت ما رو تغییر بده! 
+ <details>  &nbsp;در حالی که بهمون اکسیژن کافی نمی‌رسه، به ابررسانایی نگاه می‌کنیم که تو هوای اتاق کار می‌کنه و مشکل امنیتی لینوکس به اسم دندون خونی رو بررسی می‌کنیم و با &nbsp;میبینیم چی می شه اگر دارویی هویت ما رو تغییر بده! 
  </details> 
  <hr /> 
 
@@ -390,7 +390,7 @@
  - آرون سوارتز 
  - پیک های اسپانیا 
  - ... 
- و متاسفانه یادم رفت لینک ها رو نگه دارم. از هفته بعد سعی می کنم &lpar;: خندون باشین و پر انرژی با رادیو گیک شماره ۱۰۶ 
+ و متاسفانه یادم رفت لینک ها رو نگه دارم. از هفته بعد سعی می کنم (: خندون باشین و پر انرژی با رادیو گیک شماره ۱۰۶ 
  </details> 
  <hr /> 
 
@@ -411,13 +411,13 @@
  <hr /> 
 
  #### - [رادیوگیک ۱۰۲ - جهان تغییر خواهد کرد](https://anchor.fm/radiojadi/episodes/--ejllbj) 
- <details>  بالاخره یک شماره متفاوت داریم! شاید بدتر شایدم مفیدتر. شایدم هم بدتر هم مفیدتر! در واقع تصمیم گرفتم که رادیوهای کلاسیک که حاوی خبر و اینجور چیزها هستن رو ساده تر برگزار کنم. با ادیت کمتر، تقریبا بدون موزیک و افکت و از اون مهمتر به شکل تصویری! امیدم اینه که این شکلی بتونم رادیوهایی که مخصوص بررسی خبرها هستن رو تا خبرها داغن به دستتون برسونم! توی این شماره فلسفه ام در مورد «دست انداز کمتر» رو توضیح می دم و نگاهی داریم به اخبار که تمرکز زیادی هم روی امنیت دارن. از گیگابایت ها اطلاعات اینتل که لو رفته و می تونین دانلود کنین تا پردازنده جدید انویدیا. خوشحال می شم نظرتون رو بگین، با در نظر گرفتن اینکه در این فرمت شاید واقعا هر هفته یه رادیو داشته باشیم. در عین حال حالا می تونین از یوتیوب هم رادیوگیک رو «بشنوین» و البته ببینین. چیزهایی اضافه داره &lpar;: 
+ <details>  بالاخره یک شماره متفاوت داریم! شاید بدتر شایدم مفیدتر. شایدم هم بدتر هم مفیدتر! در واقع تصمیم گرفتم که رادیوهای کلاسیک که حاوی خبر و اینجور چیزها هستن رو ساده تر برگزار کنم. با ادیت کمتر، تقریبا بدون موزیک و افکت و از اون مهمتر به شکل تصویری! امیدم اینه که این شکلی بتونم رادیوهایی که مخصوص بررسی خبرها هستن رو تا خبرها داغن به دستتون برسونم! توی این شماره فلسفه ام در مورد «دست انداز کمتر» رو توضیح می دم و نگاهی داریم به اخبار که تمرکز زیادی هم روی امنیت دارن. از گیگابایت ها اطلاعات اینتل که لو رفته و می تونین دانلود کنین تا پردازنده جدید انویدیا. خوشحال می شم نظرتون رو بگین، با در نظر گرفتن اینکه در این فرمت شاید واقعا هر هفته یه رادیو داشته باشیم. در عین حال حالا می تونین از یوتیوب هم رادیوگیک رو «بشنوین» و البته ببینین. چیزهایی اضافه داره (: 
    
  </details> 
  <hr /> 
 
  #### - [رادیوگیک ۰۸۹ – مصاحبه با بهمن قندچی در مورد کامپیوترهای کوانتومی](https://anchor.fm/radiojadi/episodes/ep-ej2bu9) 
- <details>  در  شماره قبلی رادیو گیک ، از کامپیوترهای کوانتومی گفتیم و تاثیرشون در آینده تکنولوژی، تاکید من بر نقل قول فاینمن بود که کسی کوانتوم رو نمی فهمه ولی معنی این نقل قول نیست که همه ما نفهم هستیم &lpar;: بعضی از ما کمتر می فهمیم و بعضی ها بیشتر. دو سه نفری بهم ایمیل زدن و توضیحاتی تکمیلی دادن و توی این شماره مصاحبه ای تقریبا ۴۰ دقیقه ای رو با  بهمن قندچی  می شنوین. بهمن با پشتوانه ریاضی در این رشته است و در کنار اصلاح و تکمیل و تدقیق بحث های قبلی من، از دکترا خوندن و پروژه اش هم صحبت می کنه. با رادیو گیک باشین که جهان نیاز به دانش و شادی بیشتری داره. 
+ <details>  در  شماره قبلی رادیو گیک ، از کامپیوترهای کوانتومی گفتیم و تاثیرشون در آینده تکنولوژی، تاکید من بر نقل قول فاینمن بود که کسی کوانتوم رو نمی فهمه ولی معنی این نقل قول نیست که همه ما نفهم هستیم (: بعضی از ما کمتر می فهمیم و بعضی ها بیشتر. دو سه نفری بهم ایمیل زدن و توضیحاتی تکمیلی دادن و توی این شماره مصاحبه ای تقریبا ۴۰ دقیقه ای رو با  بهمن قندچی  می شنوین. بهمن با پشتوانه ریاضی در این رشته است و در کنار اصلاح و تکمیل و تدقیق بحث های قبلی من، از دکترا خوندن و پروژه اش هم صحبت می کنه. با رادیو گیک باشین که جهان نیاز به دانش و شادی بیشتری داره. 
  </details> 
  <hr /> 
 
@@ -437,7 +437,7 @@
  <hr /> 
 
  #### - [رادیوگیک ۰۹۹ – جوراب شلواری ۰۶ – فتیش](https://anchor.fm/radiojadi/episodes/ep-ej2gqb) 
- <details>  فتیش کلمه قشنگیه… از نظر فن یعنی پرستیدن چیزی بیجان به خاطر اینکه فکر می کنیم خصوصیتی جادویی داره یا روحی توش حلول کرده! قشنگ نیست؟‌ ممکنه مثل بت بهش نگاه بشه، ممکنه مرتبط باشه با سرمایه داری و مارکس و ممکنه ارتباط پیدا کنه به سکس. شایدم همه اینها یکیه. تو این شماره جوراب شلواری به علایق «غیر مرسومی» نگاه می کنیم که ظاهرا اصلا هم غیرمرسوم نیستن. مفهوم، شکل ها و اینکه سالمن یا نه رو می بینیم و تصمیم میگیریم باهشون چیکار کنیم تا زندگی خوب و معقولی داشته باشیم. از اون مهمترین معیاری پیدا می کنیم برای سنجش سلامت اکثر چیزهامون &lpar;: با رادیوجوراب شلواری باشین. 
+ <details>  فتیش کلمه قشنگیه… از نظر فن یعنی پرستیدن چیزی بیجان به خاطر اینکه فکر می کنیم خصوصیتی جادویی داره یا روحی توش حلول کرده! قشنگ نیست؟‌ ممکنه مثل بت بهش نگاه بشه، ممکنه مرتبط باشه با سرمایه داری و مارکس و ممکنه ارتباط پیدا کنه به سکس. شایدم همه اینها یکیه. تو این شماره جوراب شلواری به علایق «غیر مرسومی» نگاه می کنیم که ظاهرا اصلا هم غیرمرسوم نیستن. مفهوم، شکل ها و اینکه سالمن یا نه رو می بینیم و تصمیم میگیریم باهشون چیکار کنیم تا زندگی خوب و معقولی داشته باشیم. از اون مهمترین معیاری پیدا می کنیم برای سنجش سلامت اکثر چیزهامون (: با رادیوجوراب شلواری باشین. 
  </details> 
  <hr /> 
 
@@ -522,7 +522,7 @@
  <hr /> 
 
  #### - [رادیوگیک شماره ۰۸۰ – دی اند دی به احترام دوست شریف دی اند دی بازمون سام رجبی](https://anchor.fm/radiojadi/episodes/ep-ej2b15) 
- <details>  بازی های dungeons and dragons یا همون D&amp;amp;D بازی‌های نسبتا جدیدی هستن که با بهترین کامپیوتر جهان بازی می‌شن و بهترین گرافیک جهان رو هم دارن: مغز و قدرت تخیل! در این بازی‌ها ما با هیولاها می جنگیم، راهمون رو تو جنگل‌ها باز می‌کنیم و از تله‌ها در میریم و معماها رو حل می‌کنیم تا به هدفمون برسیم. این بازی‌ها ممکنه چند سال طول بکشن و بخشی از شخصیت ما باشن. توی این شماره به دی اند دی نگاه می کنیم، بازی ای که من با سام رجبی یادش گرفتم. با ما باشین که از دانجن، رول پلی،‌ مستر و پارتی حرف می‌زنیم! 
+ <details>  بازی های dungeons and dragons یا همون D&amp;D بازی‌های نسبتا جدیدی هستن که با بهترین کامپیوتر جهان بازی می‌شن و بهترین گرافیک جهان رو هم دارن: مغز و قدرت تخیل! در این بازی‌ها ما با هیولاها می جنگیم، راهمون رو تو جنگل‌ها باز می‌کنیم و از تله‌ها در میریم و معماها رو حل می‌کنیم تا به هدفمون برسیم. این بازی‌ها ممکنه چند سال طول بکشن و بخشی از شخصیت ما باشن. توی این شماره به دی اند دی نگاه می کنیم، بازی ای که من با سام رجبی یادش گرفتم. با ما باشین که از دانجن، رول پلی،‌ مستر و پارتی حرف می‌زنیم! 
  </details> 
  <hr /> 
 
@@ -567,7 +567,7 @@
  <hr /> 
 
  #### - [رادیو گیک شماره ۷۱ – اعترافات یک تاثیرگذار اینستاگرامی](https://anchor.fm/radiojadi/episodes/ep-ej12sn) 
- <details>  اینستاگرام رو همه می شناسیم. اینستافیموس ها یا همون مشهورهای اینستاگرامی رو هم. گاهی باهاشون می خندیم، یا تعجب می کنیم که چرا واقعا اینها زنده هستن یا فکر می کنیم چقدر از ما خوشبخت ترن که اینجوری زندگی می کنن و چرخیدن توش باعث می شه حس کنیم چقدر بعضی ها زندگی راحت و مجللی دارن. اما آیا اینطوریه؟ آیا این آدم ها گاه گداری یه عکس می گیرن تا گوشه ای از زندگیشون رو با ما شریک بشن؟ آیا همیشه تو پارتی هستن &lpar;چه پول چه چیزهای مشهور به پارتی های شبانه تهران!&rpar; و آیا همیشه رو میزشون مشروب و سیگاره؟ اینستافیموس ها تاثیر گذارن. روی گروه های بزرگ و هر چیزی که این روزها تاثیرگذار باشه، پول هم در میاره و البته در کشور عزیز ما دستگیر می شه. خبری دیروز می گفت پلیس فلان جا متهمان مدلینگ که لباس های غربی رو ترویج می کردن رو دستگیر کرده! حتی بین خودشون هم فکر نکردن «خب مگه تبلیغ مدل لباس غربی جرمه؟» &lpar;: فقط حمله می کنن چون آدم هایی مشهورن که اینها نیستن و اونهایی که اینهمه پول خرجشون می شه تا مشهور بشن، علاقمند خاصی جلب نکردن &lpar;نقل قول کیم ایل جونگ سون!&rpar; هاها.. همین یک تیکه عالیه. 
+ <details>  اینستاگرام رو همه می شناسیم. اینستافیموس ها یا همون مشهورهای اینستاگرامی رو هم. گاهی باهاشون می خندیم، یا تعجب می کنیم که چرا واقعا اینها زنده هستن یا فکر می کنیم چقدر از ما خوشبخت ترن که اینجوری زندگی می کنن و چرخیدن توش باعث می شه حس کنیم چقدر بعضی ها زندگی راحت و مجللی دارن. اما آیا اینطوریه؟ آیا این آدم ها گاه گداری یه عکس می گیرن تا گوشه ای از زندگیشون رو با ما شریک بشن؟ آیا همیشه تو پارتی هستن (چه پول چه چیزهای مشهور به پارتی های شبانه تهران!) و آیا همیشه رو میزشون مشروب و سیگاره؟ اینستافیموس ها تاثیر گذارن. روی گروه های بزرگ و هر چیزی که این روزها تاثیرگذار باشه، پول هم در میاره و البته در کشور عزیز ما دستگیر می شه. خبری دیروز می گفت پلیس فلان جا متهمان مدلینگ که لباس های غربی رو ترویج می کردن رو دستگیر کرده! حتی بین خودشون هم فکر نکردن «خب مگه تبلیغ مدل لباس غربی جرمه؟» (: فقط حمله می کنن چون آدم هایی مشهورن که اینها نیستن و اونهایی که اینهمه پول خرجشون می شه تا مشهور بشن، علاقمند خاصی جلب نکردن (نقل قول کیم ایل جونگ سون!) هاها.. همین یک تیکه عالیه. 
  </details> 
  <hr /> 
 
@@ -611,8 +611,8 @@
  </details> 
  <hr /> 
 
- #### - [CORS_ORIGIN_WHITELIST = &lpar;   &#39;localhost:8080&#39;, &rpar;](https://anchor.fm/radiojadi/episodes/CORS_ORIGIN_WHITELIST-----localhost8080-ej0vi1) 
- <details>  بابلی‌ها و سومری‌هایی است در ۵۵۰۰ سال قبل سیستم سگزادسیمال &lpar;شصت شصتی&rpar; رو پایه گذاشتن و باعث شدن دقیقه ما شصت ثانیه داشته باشه و معتقد باشیم سر یک جغد صد و هشتاد در جه می‌چرخه. در شماره شصتم رادیو گیک،‌ برای کمتر از یکساعت که بهش می گیم شصت دقیقه، مهمان رادیویی هستیم که یادآور ارتباط عمیق جامعه، سیاست و تکنولوژی است! در رادیو گیک، گیک بودن شرط لازمه، شریف بودن و عاشق بودن بودن شرط کافی! گیک‌های جهان، متحد بشین که جهان نیاز به درک شدن و تغییر کردن داره! 
+ #### - [CORS_ORIGIN_WHITELIST = (   'localhost:8080', )](https://anchor.fm/radiojadi/episodes/CORS_ORIGIN_WHITELIST-----localhost8080-ej0vi1) 
+ <details>  بابلی‌ها و سومری‌هایی است در ۵۵۰۰ سال قبل سیستم سگزادسیمال (شصت شصتی) رو پایه گذاشتن و باعث شدن دقیقه ما شصت ثانیه داشته باشه و معتقد باشیم سر یک جغد صد و هشتاد در جه می‌چرخه. در شماره شصتم رادیو گیک،‌ برای کمتر از یکساعت که بهش می گیم شصت دقیقه، مهمان رادیویی هستیم که یادآور ارتباط عمیق جامعه، سیاست و تکنولوژی است! در رادیو گیک، گیک بودن شرط لازمه، شریف بودن و عاشق بودن بودن شرط کافی! گیک‌های جهان، متحد بشین که جهان نیاز به درک شدن و تغییر کردن داره! 
  </details> 
  <hr /> 
 
@@ -685,7 +685,7 @@
 
  #### - [رادیو گیک شماره ۴۸ – ریشه های بی ریشه قسمت دوم](https://anchor.fm/radiojadi/episodes/ep-ej0rnb) 
  <details>   ذن  مکتبی از بودیسمه که توش تاکید می شه به تفکر لحظه به لحظه و نگاهی عمیق تر به ماهیت جهان. اونهم از طریق تجربه مستقیم. در ذن کوان هایی وجود دارن که مثل داستان های کوتاه هستن. این داستان ها موضوعی برای تفکر به شما می دن و تلنگری می شن برای رسیدن به  روشنایی . 
- در کتاب ریشه های بی ریشه اریک ریموند که از خدایگان دنیای لینوکس است، کوان هایی رو برای ما نوشته که بتونیم باهاشون شاد باشیم، ازشون انرژی بگیریم و از همه مهمتر به روشنایی برسیم. چیزی بین طنز و جدی. بستگی داره نگاه شما چی باشه. این کوان ها رو  احمد شریف پور  عزیز به فارسی ترجمه کرده و  من در پادکست ۳۲ &lpar;ریشه های بی ریشه&rpar; اکثرش  رو خوندم. اما اون موقع چند کوان هنوز ترجمه نشده بودن که الان ترجمه شدن و در پادکست ۴۸ &lpar;مشهور به ۳۲ ممیز ۲&rpar; خونده می شن. 
+ در کتاب ریشه های بی ریشه اریک ریموند که از خدایگان دنیای لینوکس است، کوان هایی رو برای ما نوشته که بتونیم باهاشون شاد باشیم، ازشون انرژی بگیریم و از همه مهمتر به روشنایی برسیم. چیزی بین طنز و جدی. بستگی داره نگاه شما چی باشه. این کوان ها رو  احمد شریف پور  عزیز به فارسی ترجمه کرده و  من در پادکست ۳۲ (ریشه های بی ریشه) اکثرش  رو خوندم. اما اون موقع چند کوان هنوز ترجمه نشده بودن که الان ترجمه شدن و در پادکست ۴۸ (مشهور به ۳۲ ممیز ۲) خونده می شن. 
  </details> 
  <hr /> 
 
@@ -696,7 +696,7 @@
 شب این قفس سترگ را می شکنیم 
 هرچند تبر به دوشمان نیست ولی 
 یک روز بت بزرگ را می شکنیم 
-&lpar;جلیل صفر بیگی&rpar; 
+(جلیل صفر بیگی) 
  </details> 
  <hr /> 
 
@@ -706,7 +706,7 @@
  <hr /> 
 
  #### - [رادیو گیک ۴۵ – حرف حق نمی شه زد](https://anchor.fm/radiojadi/episodes/ep-ej0rfs) 
- <details>  شماره چهل و پنجم رادیو گیک برای گیک هایی که درک می کنن یک جامعه چه زمانی امن است و چه زمانی ناامن. با اخباری از دوبی، اپل و آمازون و نگاهی عمیق تر از تعداد سی پی یو ها و رم گوشی بعدی فلان کارخونه به تکنولوژی. انتشار رادیو، بهترین حمایت شماست &lpar;: 
+ <details>  شماره چهل و پنجم رادیو گیک برای گیک هایی که درک می کنن یک جامعه چه زمانی امن است و چه زمانی ناامن. با اخباری از دوبی، اپل و آمازون و نگاهی عمیق تر از تعداد سی پی یو ها و رم گوشی بعدی فلان کارخونه به تکنولوژی. انتشار رادیو، بهترین حمایت شماست (: 
  </details> 
  <hr /> 
 
@@ -746,7 +746,7 @@
 
  #### - [رادیو گیک شماره ۱۰ – فارنهایت ۴۵۱](https://anchor.fm/radiojadi/episodes/ep-eivf20) 
  <details>  گیک هایی که دوست دارن تقاطع تکنولوژی و جامعه رو ببینن در این شماره از اخبار تا اعماق پیش می رن و آخرش به افتخار یک نویسنده عالی، انگلیسی تمرین می کنن. شماره دهم رادیو گیک در انتظار شنیده شدن است 
-  اطلاعیه :  گفته می شه پونزده دقیقه در آخر فایل خالی است. امکان تغییر فایل رو دیگه ندارم. لطفا اون قسمت رو با آهنگ مناسب خودتون پر کنید &lpar;: 
+  اطلاعیه :  گفته می شه پونزده دقیقه در آخر فایل خالی است. امکان تغییر فایل رو دیگه ندارم. لطفا اون قسمت رو با آهنگ مناسب خودتون پر کنید (: 
  </details> 
  <hr /> 
 
@@ -781,12 +781,12 @@
  <hr /> 
 
  #### - [رادیو گیک شماره ۶ – ویران شود این خانه که میخانه ندارد](https://anchor.fm/radiojadi/episodes/ep-eive5c) 
- <details>  در این شماره که می شد اسمش باشه گیک های خندان، اولش دلمون می گیره از این شهری که وقتی یک میکروفون خوب یو اس بی می خوای توش بخری هیچ جاش پیدا نمی شه، از سانسورچی های اینترنت و شرکت های بزرگ محدود کننده اش و از پتنت ترول هایی که برای سودشون تکنولوژی رو خفه می کن.. اما خیلی زود با امید به سیل خروشان آزادی و با صدای هندی زهرا که تانگوی زیبا رو می خونه &lpar;بله وقت داریم ای غریبه زیبا… می خوام عقلم رو از دست بدم در دستان پر خطر تو…&rpar; فراموش می کنیم در این شماره از خوبی ها و بدی ها بگیم و به جاش سراغ اسلحه همیشگی مون می ریم و تا هفته بعد لبخندها رو حفظ می کنیم چون قشنگترین چیزیه که داریم. 
+ <details>  در این شماره که می شد اسمش باشه گیک های خندان، اولش دلمون می گیره از این شهری که وقتی یک میکروفون خوب یو اس بی می خوای توش بخری هیچ جاش پیدا نمی شه، از سانسورچی های اینترنت و شرکت های بزرگ محدود کننده اش و از پتنت ترول هایی که برای سودشون تکنولوژی رو خفه می کن.. اما خیلی زود با امید به سیل خروشان آزادی و با صدای هندی زهرا که تانگوی زیبا رو می خونه (بله وقت داریم ای غریبه زیبا… می خوام عقلم رو از دست بدم در دستان پر خطر تو…) فراموش می کنیم در این شماره از خوبی ها و بدی ها بگیم و به جاش سراغ اسلحه همیشگی مون می ریم و تا هفته بعد لبخندها رو حفظ می کنیم چون قشنگترین چیزیه که داریم. 
  </details> 
  <hr /> 
 
  #### - [رادیو گیک شماره ۳۶ – مصاحبه ای با استیو وزنیاک در نودمین روز حبس نارنجی](https://anchor.fm/radiojadi/episodes/ep-ej0qep) 
- <details>  در این شماره ویژه با  استیو وزنیاک  هستیم. کسی که شماره پرسنلی‌اش توی اپل «یک» بود و این موضوع همیشه اونیکی استیو رو حرص داد. وزنیاک یک گیک واقعی است و این شماره نفس گیر یک ساعت و نیم ترجمه شده مصاحبه اون مربوط به کتابی که داشتیم با بچه های نارنجی ترجمه می کردیم و حالا در این شرایط من بخش خودم رو به شکل مستقل منتشر می کنم. در این مصاحبه من نقش وزنیاک رو بازی می کنم &lpar;و آخرهاش که خسته ام بد اجرا می کنم&rpar; و  نسرین  که قرار گذاشتیم با هم دو شماره پادکست ضبط کنیم نقش مصاحبه گر رو. طرفداران وزنیاک.. به گوش! 
+ <details>  در این شماره ویژه با  استیو وزنیاک  هستیم. کسی که شماره پرسنلی‌اش توی اپل «یک» بود و این موضوع همیشه اونیکی استیو رو حرص داد. وزنیاک یک گیک واقعی است و این شماره نفس گیر یک ساعت و نیم ترجمه شده مصاحبه اون مربوط به کتابی که داشتیم با بچه های نارنجی ترجمه می کردیم و حالا در این شرایط من بخش خودم رو به شکل مستقل منتشر می کنم. در این مصاحبه من نقش وزنیاک رو بازی می کنم (و آخرهاش که خسته ام بد اجرا می کنم) و  نسرین  که قرار گذاشتیم با هم دو شماره پادکست ضبط کنیم نقش مصاحبه گر رو. طرفداران وزنیاک.. به گوش! 
  </details> 
  <hr /> 
 
@@ -826,7 +826,7 @@
  <hr /> 
 
  #### - [رادیو گیک شماره ۰ – ورود اژدها و بیانیه دزدهای دریایی](https://anchor.fm/radiojadi/episodes/ep-eivcn0) 
- <details>  توروالدز که نویسنده اصلی هسته لینوکسه به عنوان توزیع اصلی از فدورا استفاده می کنه و به عنوان توزیع فرعی و روی کامپیوترهای متفرقه اش از زوزه. اخیرا هم ظاهرا برای دختر کوچیکش یک لپ تاپ مک بوک ایر خریده و روش زوزه نصب کرده و بعد از چند وقت یک مطلب وحشتناک خشن ضد زوزه توی پلاسش گذاشته. مشکل اصلی اش این بوده که زوزه زیاد پسورد روت رو میپرسه و مدت ها بوده در این مورد داشته توی باگزیلا باگ گزارش می کرده ولی عصبانیت جایی شروع شده که دخترش ا زمدرسه زنگ زده و گفته پسورد روت چیه.. اینم گفتم برای چی می خوای بابایی؟ اونم گفته چون می خوام پرینتر مدرسه رو اضافه کنم می پرسه! می دونین که توروالدز با کسی شوخی نداره. نوشته «اگر مسوول امنیت یک توزیع هستین و فکر می کنین که بچه من &lpar;یا مثلا مسوول فروش فلانجا یا هر مشتری دیگه که دارین&rpar; برای دسترسی به شبکه بی سیم یا چاپ کردن یک برگ کاغذ یا تغییر تنظیمات ساعت پسورد روت می خواد لطفا برین خودتون بکشین! دنیا اگه شما نباشین خیلی جای بهتری می شه. اون احمقی که فکر می کنه امنیت خوب یعنی پسورد پرسیدن برای هر چیزی عقلش مشکل داره» بعدش هم اضافه کرده که «من باید یک توزیع جدید پیدا کنم که راحت روی این مک بوک ایر نصب بشه». 
+ <details>  توروالدز که نویسنده اصلی هسته لینوکسه به عنوان توزیع اصلی از فدورا استفاده می کنه و به عنوان توزیع فرعی و روی کامپیوترهای متفرقه اش از زوزه. اخیرا هم ظاهرا برای دختر کوچیکش یک لپ تاپ مک بوک ایر خریده و روش زوزه نصب کرده و بعد از چند وقت یک مطلب وحشتناک خشن ضد زوزه توی پلاسش گذاشته. مشکل اصلی اش این بوده که زوزه زیاد پسورد روت رو میپرسه و مدت ها بوده در این مورد داشته توی باگزیلا باگ گزارش می کرده ولی عصبانیت جایی شروع شده که دخترش ا زمدرسه زنگ زده و گفته پسورد روت چیه.. اینم گفتم برای چی می خوای بابایی؟ اونم گفته چون می خوام پرینتر مدرسه رو اضافه کنم می پرسه! می دونین که توروالدز با کسی شوخی نداره. نوشته «اگر مسوول امنیت یک توزیع هستین و فکر می کنین که بچه من (یا مثلا مسوول فروش فلانجا یا هر مشتری دیگه که دارین) برای دسترسی به شبکه بی سیم یا چاپ کردن یک برگ کاغذ یا تغییر تنظیمات ساعت پسورد روت می خواد لطفا برین خودتون بکشین! دنیا اگه شما نباشین خیلی جای بهتری می شه. اون احمقی که فکر می کنه امنیت خوب یعنی پسورد پرسیدن برای هر چیزی عقلش مشکل داره» بعدش هم اضافه کرده که «من باید یک توزیع جدید پیدا کنم که راحت روی این مک بوک ایر نصب بشه». 
  </details> 
  <hr /> 
 
@@ -902,7 +902,7 @@
  <hr /> 
 
  #### - [رادیو گیک شماره ۱۸ – داستان کوتاه «هریسون برگرن» از «کرت وونه‌گات»](https://anchor.fm/radiojadi/episodes/ep-ej0nfa) 
- <details>  یک شماره ویژه داریم. کش نمی دم جریان رو چون توی رادیو پنج دقیقه در موردش حرف زدم &lpar;: برای بیست دقیقه گوش بدین به یک داستان کوتاه از یکی از بهترین علمی تخیلی نویس‌ها،  کرت یا کورت وونه‌گات . نویسنده‌ای که با  سلاخ خانه شماره پنج  و از اون بالاتر  گهواره گربه  یکی از نویسنده های محبوب منه. داستانی که براتون می خونم اسمش هست «هریسون برگرن» از کتاب استادان تبسم &lpar;که اسم واقعا بدیه با یک طراحی جلد خیلی بد – حداقل در سطح انتخاب فونت&rpar; و ترجمه ای بدتر از علیرضا میراسدالله به همت حسین یعقوبی؛ چاپ انتشارات مروارید. 
+ <details>  یک شماره ویژه داریم. کش نمی دم جریان رو چون توی رادیو پنج دقیقه در موردش حرف زدم (: برای بیست دقیقه گوش بدین به یک داستان کوتاه از یکی از بهترین علمی تخیلی نویس‌ها،  کرت یا کورت وونه‌گات . نویسنده‌ای که با  سلاخ خانه شماره پنج  و از اون بالاتر  گهواره گربه  یکی از نویسنده های محبوب منه. داستانی که براتون می خونم اسمش هست «هریسون برگرن» از کتاب استادان تبسم (که اسم واقعا بدیه با یک طراحی جلد خیلی بد – حداقل در سطح انتخاب فونت) و ترجمه ای بدتر از علیرضا میراسدالله به همت حسین یعقوبی؛ چاپ انتشارات مروارید. 
  </details> 
  <hr /> 
 
@@ -930,8 +930,8 @@
  <hr /> 
 
  #### - [رادیو گیک شماره ۱ – سینگولاریتی](https://anchor.fm/radiojadi/episodes/ep-eivcud) 
- <details>  &amp;nbsp;حالا هنوز از در نیومده تو، یک شماره غیرعادی: یکساعت و پونزده دقیقه و سی و پنج مگ فایل، بستری شده برای یک مصاحبه طولانی با   ناصر تقوی   در مورد  سینگولاریتی تکنولوژیک و مفاهیم پیرامون اون . اگر شما هم مثل من از سینگولاریتی تکنولوژیک، کروزویل، دانشگاه سینگولاریتی، نانوربات‌های کارگذاشته شده داخل مغز و آینده زیبای دنیا چیزی نشنیدین و البته اگر جرات هم دارین که وارد دنیای علمی-تخیلی واقعی بشین، پادکست رو گوش کنین: 
-  پ.ن.  پادکست دردسرهای خودش رو داره. در متن گفته شده که دیپ بلو سال ۹۹ کاسپاروف رو شکست داد ولی بعدا ناصر گفت که عدد صحیح سال ۹۷ بود &lpar;: حالا دو سال اینطرف اونطرف که فدای سرمون ولی بهانه ای شد یاد بکنیم از گری کاسپاروف که اونسال بازی رو باخت اما شرافتش رو حفظ کرد و خط مقدم مبارزه علیه دیکتاتوری درکشورش رو هنوزم ترک نکرده &lpar;: کف مرتب براش &lpar;: 
+ <details>  &nbsp;حالا هنوز از در نیومده تو، یک شماره غیرعادی: یکساعت و پونزده دقیقه و سی و پنج مگ فایل، بستری شده برای یک مصاحبه طولانی با   ناصر تقوی   در مورد  سینگولاریتی تکنولوژیک و مفاهیم پیرامون اون . اگر شما هم مثل من از سینگولاریتی تکنولوژیک، کروزویل، دانشگاه سینگولاریتی، نانوربات‌های کارگذاشته شده داخل مغز و آینده زیبای دنیا چیزی نشنیدین و البته اگر جرات هم دارین که وارد دنیای علمی-تخیلی واقعی بشین، پادکست رو گوش کنین: 
+  پ.ن.  پادکست دردسرهای خودش رو داره. در متن گفته شده که دیپ بلو سال ۹۹ کاسپاروف رو شکست داد ولی بعدا ناصر گفت که عدد صحیح سال ۹۷ بود (: حالا دو سال اینطرف اونطرف که فدای سرمون ولی بهانه ای شد یاد بکنیم از گری کاسپاروف که اونسال بازی رو باخت اما شرافتش رو حفظ کرد و خط مقدم مبارزه علیه دیکتاتوری درکشورش رو هنوزم ترک نکرده (: کف مرتب براش (: 
  </details> 
  <hr /> 
 <!-- RadioGeek-Anchor-feed:END -->
